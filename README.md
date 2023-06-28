@@ -1,4 +1,4 @@
-# Descriptions
+# Description
 
 This is a very simple project aimed at improving my skills in redux. You can post a new blog and and it will display it with the author name chosen as well as the time spent in making the post. Also you can react to the post and it will keep the count of the reactions even if you make a new post.
 
